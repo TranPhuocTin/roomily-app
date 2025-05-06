@@ -1,0 +1,6 @@
+enum TransactionType {
+  DEPOSIT,
+  WITHDRAWAL,
+  RENT_PAYMENT,
+  SUBSCRIPTION_PAYMENT
+}

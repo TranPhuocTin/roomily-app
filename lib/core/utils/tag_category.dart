@@ -1,0 +1,6 @@
+enum TagCategory {
+  IN_ROOM_FEATURE,
+  NEARBY_POI,
+  POLICY,
+  BUILDING_FEATURE
+}
